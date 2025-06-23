@@ -42,22 +42,22 @@ Hey! I'm Mahesh, a final-year Computer Science student at KKR and KSR Institute 
 - 🧠 **Restaurant Rating Prediction**  
   Forecasted restaurant ratings using ML models based on features like location, cuisine, and delivery.  
   _Python, Pandas, Sklearn_  
-  🔗 [GitHub](https://github.com/Mahesh200457/RESTAURANT-RATING-PREDICTION-AND-ANALYSIS)
+  🔗 [Project Link](https://github.com/Mahesh200457/RESTAURANT-RATING-PREDICTION-AND-ANALYSIS)
 
 - 📊 **Zomato Data Analysis**  
   Performed EDA to uncover insights on ratings, preferences, and delivery behavior.  
   _Python, Seaborn, Matplotlib_  
-  🔗 [GitHub](https://github.com/Mahesh200457/Zomato-Data-Analysis)
+  🔗 [Project Link](https://github.com/Mahesh200457/Zomato-Data-Analysis)
 
 - 🍕 **Pizza Sales Dashboard**  
   Built Excel dashboard using SQL-extracted KPIs to analyze revenue and top-performing items.  
   _SQL, Excel_  
-  🔗 [GitHub](https://github.com/Mahesh200457/Pizza-Sales-Analysis)
+  🔗 [Project Link](https://github.com/Mahesh200457/Pizza-Sales-Analysis)
 
 - 🚕 **Uber Data Analysis**  
   Analyzed trip data to find peak usage trends and improved forecasting with visuals.  
   _Python, Pandas, Matplotlib_  
-  🔗 [GitHub](https://github.com/Mahesh200457/Uber-Data-Analysis)
+  🔗 [Project Link](https://github.com/Mahesh200457/Uber-Data-Analysis)
 
 ---
 
